@@ -30,7 +30,7 @@ I have done several interesting projects. [Explore](project.md) more about my pr
 
 <font size=3>
 
-I have some hobbies. [Explore](extracurricular.md) more about my hobbies
+I have some hobbies. [Explore](extracurricular.md) more about my hobbies.
 
 </font>
 
