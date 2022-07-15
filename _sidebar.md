@@ -1,5 +1,6 @@
 * [Home](README.md)
 * [Education](education.md)
 * [Project](project.md)
+* [Work Experience](work_experience.md)
 * [Extracurricular](extracurricular.md)
 * [Contact Me](contact.md)
