@@ -1,6 +1,6 @@
 # Work Experience
 
-## <font size=5>Hardware Implementation Inter</font> 
+## <font size=5>Hardware Implementation Intern</font> 
 
 ## <font size=3>ARM Ltd</font> 
 
