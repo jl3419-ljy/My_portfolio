@@ -2,5 +2,4 @@
 * [Education](education.md)
 * [Project](project.md)
 * [Extracurricular](extracurricular.md)
-* [Work Experience](work_experience.md)
 * [Contact Me](contact.md)
