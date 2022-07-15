@@ -1,7 +1,7 @@
 
 ![picture](bitmoji_removed.png)
 
-# Hi, I am Serena
+# Hi, I am Serena 
 
 
 - Hello, I am Jingyi (Serena) Liang, a third year MEng Electrical and Electronic Engineering student at Imperial College London. Welcome to my website. 
