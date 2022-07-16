@@ -54,18 +54,17 @@ Feel free to contact me and check out my resume [here](contact.md).
 
 <font size=3>
 
-I have developed some skills in Imperial College. Skills are rated from 0 (very weak) to 10 (Excellent) below.
+I have developed some skills in Imperial College. 
 
 </font>
 
-
-**<font size=3>C/C++ :</font>**  :nine: &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; **<font size=3>Verilog :</font>**  :keycap_ten:
-
-**<font size=3>Matlab :</font>**  :nine: &emsp; &emsp; &emsp; &emsp; &emsp; **<font size=3>LTSpice :</font>**  :eight:
-
-**<font size=3>Quartus :</font>**  :nine: &emsp; &emsp; &emsp; &emsp; &ensp;  **<font size=3>Vivado :</font>**  :eight:
-
-**<font size=3>Unity :</font>**  :seven: &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; **<font size=3>Arduino :</font>**  :eight:
+| Software Language     | Level | EDA Tools    | Level | Others    | Level | 
+| ------------- |:-------------:|:-------------: |:-------------: |:-------------: |:-------------: |
+| **C++/C**     | Advanced      | **Quartus** | Advanced| **Arduino** | Advanced    |
+| **Verilog**   | Advanced      | **Vivado**  | Advanced| **Unity**   | Intermediate|
+| **Matlab**    | Advanced      | **Cadence** | Advanced| **LTspice** | Intermediate|
+| **Tcl**       | Intermediate  | **Synopsis**| Intermediate|||
+| **Python**    | Intermediate  |||||
 
 
 
