@@ -8,6 +8,7 @@
 
 [GitHub](https://github.com/jl3419-ljy)
 [Linkedin](https://www.linkedin.com/in/jingyi-liang-85a911212/)
+[CV](https://github.com/jl3419-ljy/jl3419-ljy/blob/main/Jingyi%20Liang(Serena).pdf)
 [More about me](README.md)
 
 ![color](#f0f0f0)
