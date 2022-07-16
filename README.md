@@ -34,6 +34,14 @@ I have some hobbies. [Explore](extracurricular.md) more about my hobbies.
 
 </font>
 
+## Work Experience
+
+<font size=3>
+
+I am interested in hardware engineering roles. [Explore](work_experience.md) more about my work experience.
+
+</font>
+
 ## Contact me
 
 <font size=3>
