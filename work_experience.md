@@ -1,7 +1,6 @@
 # Work Experience
 
-## <font size=5>Hardware Implementation Intern</font> 
-## <font size=3>ARM Ltd</font> 
+## <font size=5>Hardware Implementation Intern</font>  ## <font size=3>ARM Ltd</font> 
 **<small>2021.07 - 2021.10 <small>**
 
 <font size=3>
