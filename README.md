@@ -2,7 +2,7 @@
 
 <font size=3>
 
-Welcome to my Website. I am Jingyi Liang, from China. I graduated from Imperial College with an MEng degree in Electrical and Electronics Engineering. I have a great interest in hardware design, especially digital system design. In my spare time, I enjoy playing tennis, and I also take part in the Imperial College tennis team.
+Welcome to my Website. I am Jingyi Liang, from China. I graduated from Imperial College with an MEng degree in Electrical and Electronic Engineering. I have a great interest in hardware design, especially digital system design. In my spare time, I enjoy playing tennis, and I also take part in the Imperial College tennis team.
 
 </font>
 
