@@ -4,7 +4,7 @@
 
 **<small>2019.10 - 2023.07 <small>**
 
-<font size=3>I am currently a third year undergraduate student at [Imperial College](https://www.imperial.ac.uk/), pursuing an MEng in Electrical and Electronic Engineering. [More](https://www.imperial.ac.uk/study/ug/courses/electrical-engineering-department/electrical-and-electronic-engineering-meng/) information about the degree.</font>
+<font size=3>I have graduated from [Imperial College](https://www.imperial.ac.uk/) with an MEng degree in Electrical and Electronic Engineering. [More](https://www.imperial.ac.uk/study/ug/courses/electrical-engineering-department/electrical-and-electronic-engineering-meng/) information about the degree.</font>
 
 
 ### <font size=4>First Year Modules</font> 
