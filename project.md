@@ -46,6 +46,12 @@
 
 <font size=3>This project was my end of year project in third year at Imperial College. This project aims to introduce an extension to the Tensorflow library to use hardware accelerators defined on FPGAs using the PYNQ framework from Xilinx. The intention here is that we are proposing the use of FPGAs to allow any accelerator to be loaded onto our embedded device and cater towards application specific needs. The sourcecode and report can be found [here](https://github.com/jl3419-ljy/FPGA-Consultancy). </font>
 
+## <font size=5>Simulation of a hybrid single electron transistor/field effect transistor</font>
+
+**<small>2022.10 - 2023.06 <small>**
+
+<font size=3>This project was my final year project. This project designs and simulates the electrical characteristics of hybrid SET-FETs, where the device behaves as either a SET, a FET or as a combination of the two devices, depending on the gate and drain bias. Simulation programs for SET characteristics already exist with the OSD group, however, these do not include FET behaviour. To be able to match experimental device characteristics, a hybrid SET-FET model is essential. FET models is built in MATLAB and then introduced within the SET simulator. The simnulation results will be compared to experimental characteristics with a view to a detailed understanding of these devices. 
+
 
 
 
