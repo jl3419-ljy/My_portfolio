@@ -14,7 +14,7 @@ Welcome to my Website. I am Jingyi Liang, from China. I have graduated from Impe
 
 <font size=3>
 
-I am pursuing an integrated Masters degree in Electrical and Electronic Engineering at Imperial College. [Explore](education.md) more about my degree.
+[Explore](education.md) more about my degree at Imperial College.
 
 </font>
 
