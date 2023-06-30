@@ -44,6 +44,19 @@
 
 </font>
 
+### <font size=4>Fourth Year Modules</font> 
+<font size=3>
+
+- Advanced Communication Theory
+- Analgue Signal Processing
+- Full-Custom Integrated Circuit Design
+- Hardware and Software Verification 
+- Digital Image Processing
+- Wireless Communication and Optimisation
+- Accounting
+
+</font>
+
 
 ## <font size=5>Roedean School</font> 
 **<small>2016.10 - 2019.07 <small>**
